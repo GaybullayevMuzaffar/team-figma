@@ -2,7 +2,10 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <div>Nematulloh</div>
+    <div>
+      <h1>Nematulloh</h1>
+      
+    </div>
   )
 }
 
