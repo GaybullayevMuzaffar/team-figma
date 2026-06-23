@@ -1,5 +1,5 @@
-import "./Section1.css";
 import { FaArrowRight } from "react-icons/fa";
+import "./Section1.css";
 import sec_img02 from "./img/Left.png"
 
 function Section1() {
