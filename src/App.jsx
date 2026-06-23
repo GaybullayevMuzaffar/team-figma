@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <Hero />
       <Section1 />
-      <Section2 />
+      {/* <Section2 /> */}
       <Section3 />
       <Footer />
     </div>
