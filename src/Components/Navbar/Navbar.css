@@ -20,7 +20,7 @@ header{
   gap: 10px;
   color: #2563EB; 
 }
-button{
+.login{
   background-color: #2563EB;
   color: white;
   border: none;
@@ -28,7 +28,7 @@ button{
   border-radius: 5px;
   cursor: pointer;
 }
-button:hover{
+.login:hover{
   background-color: white;
   color: #2563EB;
   border: 1px solid #2563EB;
