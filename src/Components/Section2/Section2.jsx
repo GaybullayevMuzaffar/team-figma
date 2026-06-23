@@ -1,0 +1,9 @@
+import "./Section2.css";
+
+function Section2() {
+  return (
+    <div>Bilol</div>
+  )
+}
+
+export default Section2;
