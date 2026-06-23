@@ -1,0 +1,60 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 20px;
+}
+
+.workflow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.workflow h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #1f2937;
+  margin-bottom: 30px;
+}
+
+.button {
+  display: flex;
+  width: fit-content;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.button button {
+  padding: 12px 35px;
+  border: none;
+  background: white;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+
+
+.salom p:first-child {
+  color: #6b7280;
+  line-height: 1.8;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.salom p:last-child {
+  color: #2563eb;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.img img {
+  width: 550px;
+  max-width: 100%;
+  border-radius: 20px;
+  display: block;
+}
+
